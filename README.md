@@ -1,2 +1,3 @@
 # Arbovirus_risk_mapping
 Arbovirus risk mapping on simulated data as an evaluated exercise for the BING-F-432 course (Introduction à l’épidémiologie spatiale et moléculaire) taught by Simon Dellicour.
+The simulated data corresponds to positive arbovirus cases spread over western europe. The objective of the exercise is to realise a risk mapping based on the following environmental variables : ...
